@@ -44,6 +44,7 @@ The main principles in our effort to (re)claim the means of production are: acce
 2. *Simplicity*: apart from the necessity to be able read and write in a specific human language, there should be as few tools, hardware and software requirements as possible. Ideally everything should work on ten-year old hardware and nothing but the software packaged with the operating system---or even better: the core technologies should work without a computer.
 3. *Sustainability*: only simple systems adhering to widely accepted standards can be sustained with minimal / reasonable effort.
 4. *Credibility*: Credibility is at the core of scholarly production. In addition to transparency as to the sources, methodology, and tools used, authorship needs to be ascertained and acknowledged as the main tool of scholarly quality control.
+what about the principle of relevancy, and how you connect with audience?
 
 # Tools / formats
 
